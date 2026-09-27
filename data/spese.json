@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "nome": "e",
+    "descrizione": "pr [NE]",
+    "importo": 50,
+    "partecipanti": [
+      "e",
+      "u"
+    ],
+    "gruppoId": "gmuj4ruv8uugf4d",
+    "quote": {
+      "e": 80,
+      "u": 20
+    }
+  }
+]
